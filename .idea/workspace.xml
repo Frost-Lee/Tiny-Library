@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5607fbd-fc53-4253-8ab3-0fc739b36679" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="method#reloadView#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AdminView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="58" selection-start-line="58" selection-end-line="63" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReaderView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ReaderView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#ReaderView#0;class#ReaderView#0" />
+                <element signature="method#placeComponents#0;class#ReaderView#0" />
+                <element signature="method#actionPerformed#0;class#ReaderView#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TLDataManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LibraryKit/TLDataManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#connectToDatabase#0;class#TLDataManager#0" />
+                <element signature="method#logoutFromDatabase#0;class#TLDataManager#0" />
+                <element signature="method#readerLogin#0;class#TLDataManager#0" />
+                <element signature="method#importBooks#0;class#TLDataManager#0" />
+                <element signature="method#importBooksFromFile#0;class#TLDataManager#0" />
+                <element signature="method#selectBook#0;class#TLDataManager#0" />
+                <element signature="method#selectAllBooks#0;class#TLDataManager#0" />
+                <element signature="method#selectAllBorrows#0;class#TLDataManager#0" />
+                <element signature="method#selectAllReturns#0;class#TLDataManager#0" />
+                <element signature="method#selectAllUsers#0;class#TLDataManager#0" />
+                <element signature="method#searchNameForBook#0;class#TLDataManager#0" />
+                <element signature="method#searchAuthorForBook#0;class#TLDataManager#0" />
+                <element signature="method#searchYearForBook#0;class#TLDataManager#0" />
+                <element signature="method#checkForBookAmount#0;class#TLDataManager#0" />
+                <element signature="method#updateBook#0;class#TLDataManager#0" />
+                <element signature="method#addReader#0;class#TLDataManager#0" />
+                <element signature="method#borrowBook#0;class#TLDataManager#0" />
+                <element signature="method#returnBook#0;class#TLDataManager#0" />
+                <element signature="method#fetchReaderBorrowRecord#0;class#TLDataManager#0" />
+                <element signature="method#fetchReaderReturnRecord#0;class#TLDataManager#0" />
+                <element signature="method#userBorrowRecord#0;class#TLDataManager#0" />
+                <element signature="method#dropReader#0;class#TLDataManager#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#LoginView#0;class#LoginView#0" />
+                <element signature="method#placeComponents#0;class#LoginView#0" />
+                <element signature="method#actionPerformed#0;class#LoginView#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>button</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LibraryKit/TLFont.java" />
+        <option value="$PROJECT_DIR$/LibraryKit/TLFont/TLTitleFont.java" />
+        <option value="$PROJECT_DIR$/LibraryKit/TLFont/TLSubtitleFont.java" />
+        <option value="$PROJECT_DIR$/LibraryKit/TLFont/TLPlainTextFont.java" />
+        <option value="$PROJECT_DIR$/LibraryKit/TLFont/TLDataManager.java" />
+        <option value="$PROJECT_DIR$/LibraryKit/TLAlertView.java" />
+        <option value="$PROJECT_DIR$/LibraryKit/TLFont/TLCommentFont.java" />
+        <option value="$PROJECT_DIR$/src/AdminEditView.java" />
+        <option value="$PROJECT_DIR$/src/AdminImportView.java" />
+        <option value="$PROJECT_DIR$/src/LoginView.java" />
+        <option value="$PROJECT_DIR$/src/ReaderBorrowView.java" />
+        <option value="$PROJECT_DIR$/src/AdminManageView.java" />
+        <option value="$PROJECT_DIR$/src/ReaderHistoryView.java" />
+        <option value="$PROJECT_DIR$/src/ReaderSearchView.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/AdminView.java" />
+        <option value="$PROJECT_DIR$/src/ReaderView.java" />
+        <option value="$PROJECT_DIR$/LibraryKit/TLDataManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tiny Library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tiny Library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tiny Library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tiny Library" type="462c0819:PsiDirectoryNode" />
+              <item name="LibraryKit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tiny Library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tiny Library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Tiny Library" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5607fbd-fc53-4253-8ab3-0fc739b36679" name="Default" comment="" />
+      <created>1524050313677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524050313677</updated>
+      <workItem from="1524050318797" duration="8111000" />
+      <workItem from="1524065769956" duration="131000" />
+      <workItem from="1524103490889" duration="1103000" />
+      <workItem from="1524113052577" duration="3748000" />
+      <workItem from="1524151372803" duration="2514000" />
+      <workItem from="1524214144669" duration="2517000" />
+      <workItem from="1524234215773" duration="25375000" />
+      <workItem from="1524362924381" duration="11000" />
+      <workItem from="1524363176292" duration="31497000" />
+      <workItem from="1524418517337" duration="150000" />
+      <workItem from="1524460013217" duration="1050000" />
+      <workItem from="1524464767328" duration="330000" />
+      <workItem from="1524468151422" duration="163000" />
+      <workItem from="1524482572524" duration="470000" />
+      <workItem from="1524530639857" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77177000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32900944" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44363636" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27896994" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45400944" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32900944" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="52" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LoginView#0;class#LoginView#0" />
+            <element signature="method#placeComponents#0;class#LoginView#0" />
+            <element signature="method#actionPerformed#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminManageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="205" column="47" selection-start-line="205" selection-start-column="47" selection-end-line="205" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#AdminManageView#0;class#AdminManageView#0" />
+            <element signature="method#placeSubComponents#0;class#AdminManageView#0" />
+            <element signature="method#placeManageComponents#0;class#AdminManageView#0" />
+            <element signature="method#removeManageComponents#0;class#AdminManageView#0" />
+            <element signature="method#placeListComponents#0;class#AdminManageView#0" />
+            <element signature="method#removeListComponents#0;class#AdminManageView#0" />
+            <element signature="method#reloadTable#0;class#AdminManageView#0" />
+            <element signature="method#handleAddUser#0;class#AdminManageView#0" />
+            <element signature="method#handleDropUser#0;class#AdminManageView#0" />
+            <element signature="method#handleBookButton#0;class#AdminManageView#0" />
+            <element signature="method#handleBorrowButton#0;class#AdminManageView#0" />
+            <element signature="method#handleReturnButton#0;class#AdminManageView#0" />
+            <element signature="method#handleUserButton#0;class#AdminManageView#0" />
+            <element signature="method#actionPerformed#0;class#AdminManageView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLDataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#connectToDatabase#0;class#TLDataManager#0" />
+            <element signature="method#logoutFromDatabase#0;class#TLDataManager#0" />
+            <element signature="method#readerLogin#0;class#TLDataManager#0" />
+            <element signature="method#importBooks#0;class#TLDataManager#0" />
+            <element signature="method#importBooksFromFile#0;class#TLDataManager#0" />
+            <element signature="method#selectBook#0;class#TLDataManager#0" />
+            <element signature="method#selectAllBooks#0;class#TLDataManager#0" />
+            <element signature="method#selectAllBorrows#0;class#TLDataManager#0" />
+            <element signature="method#selectAllReturns#0;class#TLDataManager#0" />
+            <element signature="method#selectAllUsers#0;class#TLDataManager#0" />
+            <element signature="method#searchNameForBook#0;class#TLDataManager#0" />
+            <element signature="method#searchAuthorForBook#0;class#TLDataManager#0" />
+            <element signature="method#searchYearForBook#0;class#TLDataManager#0" />
+            <element signature="method#checkForBookAmount#0;class#TLDataManager#0" />
+            <element signature="method#updateBook#0;class#TLDataManager#0" />
+            <element signature="method#addReader#0;class#TLDataManager#0" />
+            <element signature="method#borrowBook#0;class#TLDataManager#0" />
+            <element signature="method#returnBook#0;class#TLDataManager#0" />
+            <element signature="method#fetchReaderBorrowRecord#0;class#TLDataManager#0" />
+            <element signature="method#fetchReaderReturnRecord#0;class#TLDataManager#0" />
+            <element signature="method#userBorrowRecord#0;class#TLDataManager#0" />
+            <element signature="method#dropReader#0;class#TLDataManager#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminImportView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#AdminImportView#0;class#AdminImportView#0" />
+            <element signature="method#placeSubComponents#0;class#AdminImportView#0" />
+            <element signature="method#handleSingleImportButton#0;class#AdminImportView#0" />
+            <element signature="method#actionPerformed#0;class#AdminImportView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminEditView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="method#AdminEditView#0;class#AdminEditView#0" />
+            <element signature="method#placeSubComponent#0;class#AdminEditView#0" />
+            <element signature="method#handleSearchButton#0;class#AdminEditView#0" />
+            <element signature="method#handleReplaceButton#0;class#AdminEditView#0" />
+            <element signature="method#actionPerformed#0;class#AdminEditView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LoginView#0;class#LoginView#0" />
+            <element signature="method#placeComponents#0;class#LoginView#0" />
+            <element signature="method#actionPerformed#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminManageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="205" column="47" lean-forward="true" selection-start-line="205" selection-start-column="47" selection-end-line="205" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#AdminManageView#0;class#AdminManageView#0" />
+            <element signature="method#placeSubComponents#0;class#AdminManageView#0" />
+            <element signature="method#placeManageComponents#0;class#AdminManageView#0" />
+            <element signature="method#removeManageComponents#0;class#AdminManageView#0" />
+            <element signature="method#placeListComponents#0;class#AdminManageView#0" />
+            <element signature="method#removeListComponents#0;class#AdminManageView#0" />
+            <element signature="method#reloadTable#0;class#AdminManageView#0" />
+            <element signature="method#handleAddUser#0;class#AdminManageView#0" />
+            <element signature="method#handleDropUser#0;class#AdminManageView#0" />
+            <element signature="method#handleBookButton#0;class#AdminManageView#0" />
+            <element signature="method#handleBorrowButton#0;class#AdminManageView#0" />
+            <element signature="method#handleReturnButton#0;class#AdminManageView#0" />
+            <element signature="method#handleUserButton#0;class#AdminManageView#0" />
+            <element signature="method#actionPerformed#0;class#AdminManageView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLDataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#connectToDatabase#0;class#TLDataManager#0" />
+            <element signature="method#logoutFromDatabase#0;class#TLDataManager#0" />
+            <element signature="method#readerLogin#0;class#TLDataManager#0" />
+            <element signature="method#importBooks#0;class#TLDataManager#0" />
+            <element signature="method#importBooksFromFile#0;class#TLDataManager#0" />
+            <element signature="method#selectBook#0;class#TLDataManager#0" />
+            <element signature="method#selectAllBooks#0;class#TLDataManager#0" />
+            <element signature="method#selectAllBorrows#0;class#TLDataManager#0" />
+            <element signature="method#selectAllReturns#0;class#TLDataManager#0" />
+            <element signature="method#selectAllUsers#0;class#TLDataManager#0" />
+            <element signature="method#searchNameForBook#0;class#TLDataManager#0" />
+            <element signature="method#searchAuthorForBook#0;class#TLDataManager#0" />
+            <element signature="method#searchYearForBook#0;class#TLDataManager#0" />
+            <element signature="method#checkForBookAmount#0;class#TLDataManager#0" />
+            <element signature="method#updateBook#0;class#TLDataManager#0" />
+            <element signature="method#addReader#0;class#TLDataManager#0" />
+            <element signature="method#borrowBook#0;class#TLDataManager#0" />
+            <element signature="method#returnBook#0;class#TLDataManager#0" />
+            <element signature="method#fetchReaderBorrowRecord#0;class#TLDataManager#0" />
+            <element signature="method#fetchReaderReturnRecord#0;class#TLDataManager#0" />
+            <element signature="method#userBorrowRecord#0;class#TLDataManager#0" />
+            <element signature="method#dropReader#0;class#TLDataManager#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLDataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LoginView#0;class#LoginView#0" />
+            <element signature="method#placeComponents#0;class#LoginView#0" />
+            <element signature="method#actionPerformed#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LoginView#0;class#LoginView#0" />
+            <element signature="method#placeComponents#0;class#LoginView#0" />
+            <element signature="method#actionPerformed#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLDataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LoginView#0;class#LoginView#0" />
+            <element signature="method#placeComponents#0;class#LoginView#0" />
+            <element signature="method#actionPerformed#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLPlainTextFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLTitleFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLSubtitleFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LoginView#0;class#LoginView#0" />
+            <element signature="method#placeComponents#0;class#LoginView#0" />
+            <element signature="method#actionPerformed#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLPlainTextFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLTitleFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLSubtitleFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LoginView#0;class#LoginView#0" />
+            <element signature="method#placeComponents#0;class#LoginView#0" />
+            <element signature="method#actionPerformed#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLPlainTextFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLTitleFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLSubtitleFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LoginView#0;class#LoginView#0" />
+            <element signature="method#placeComponents#0;class#LoginView#0" />
+            <element signature="method#actionPerformed#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont.java" />
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLTitleFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLSubtitleFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLAlertView.java" />
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLPlainTextFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="48" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLFont/TLCommentFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminImportView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="145" column="43" lean-forward="true" selection-start-line="145" selection-start-column="43" selection-end-line="145" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#AdminImportView#0;class#AdminImportView#0" />
+            <element signature="method#placeSubComponents#0;class#AdminImportView#0" />
+            <element signature="method#handleSingleImportButton#0;class#AdminImportView#0" />
+            <element signature="method#actionPerformed#0;class#AdminImportView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminEditView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <element signature="method#AdminEditView#0;class#AdminEditView#0" />
+            <element signature="method#placeSubComponent#0;class#AdminEditView#0" />
+            <element signature="method#handleSearchButton#0;class#AdminEditView#0" />
+            <element signature="method#handleReplaceButton#0;class#AdminEditView#0" />
+            <element signature="method#actionPerformed#0;class#AdminEditView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminManageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#AdminManageView#0;class#AdminManageView#0" />
+            <element signature="method#placeSubComponents#0;class#AdminManageView#0" />
+            <element signature="method#placeManageComponents#0;class#AdminManageView#0" />
+            <element signature="method#removeManageComponents#0;class#AdminManageView#0" />
+            <element signature="method#placeListComponents#0;class#AdminManageView#0" />
+            <element signature="method#removeListComponents#0;class#AdminManageView#0" />
+            <element signature="method#reloadTable#0;class#AdminManageView#0" />
+            <element signature="method#handleAddUser#0;class#AdminManageView#0" />
+            <element signature="method#handleDropUser#0;class#AdminManageView#0" />
+            <element signature="method#handleBookButton#0;class#AdminManageView#0" />
+            <element signature="method#handleBorrowButton#0;class#AdminManageView#0" />
+            <element signature="method#handleReturnButton#0;class#AdminManageView#0" />
+            <element signature="method#handleUserButton#0;class#AdminManageView#0" />
+            <element signature="method#actionPerformed#0;class#AdminManageView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReaderHistoryView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ReaderHistoryView#0;class#ReaderHistoryView#0" />
+            <element signature="method#reloadTable#0;class#ReaderHistoryView#0" />
+            <element signature="method#handleBorrowButton#0;class#ReaderHistoryView#0" />
+            <element signature="method#handleReturnButton#0;class#ReaderHistoryView#0" />
+            <element signature="method#actionPerformed#0;class#ReaderHistoryView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReaderSearchView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="166" column="19" selection-start-line="166" selection-start-column="19" selection-end-line="166" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ReaderSearchView#0;class#ReaderSearchView#0" />
+            <element signature="method#placeSubComponents#0;class#ReaderSearchView#0" />
+            <element signature="method#reloadTable#0;class#ReaderSearchView#0" />
+            <element signature="method#handleSearchNameButton#0;class#ReaderSearchView#0" />
+            <element signature="method#handleSearchAuthorButton#0;class#ReaderSearchView#0" />
+            <element signature="method#handleSearchYearButton#0;class#ReaderSearchView#0" />
+            <element signature="method#searchByName#0;class#ReaderSearchView#0" />
+            <element signature="method#searchByAuthor#0;class#ReaderSearchView#0" />
+            <element signature="method#actionPerformed#0;class#ReaderSearchView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReaderBorrowView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ReaderBorrowView#0;class#ReaderBorrowView#0" />
+            <element signature="method#placeSubComponents#0;class#ReaderBorrowView#0" />
+            <element signature="method#actionPerformed#0;class#ReaderBorrowView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="method#reloadView#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AdminView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="58" selection-start-line="58" selection-end-line="63" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReaderView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ReaderView#0;class#ReaderView#0" />
+            <element signature="method#placeComponents#0;class#ReaderView#0" />
+            <element signature="method#actionPerformed#0;class#ReaderView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LoginView#0;class#LoginView#0" />
+            <element signature="method#placeComponents#0;class#LoginView#0" />
+            <element signature="method#actionPerformed#0;class#LoginView#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LibraryKit/TLDataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#connectToDatabase#0;class#TLDataManager#0" />
+            <element signature="method#logoutFromDatabase#0;class#TLDataManager#0" />
+            <element signature="method#readerLogin#0;class#TLDataManager#0" />
+            <element signature="method#importBooks#0;class#TLDataManager#0" />
+            <element signature="method#importBooksFromFile#0;class#TLDataManager#0" />
+            <element signature="method#selectBook#0;class#TLDataManager#0" />
+            <element signature="method#selectAllBooks#0;class#TLDataManager#0" />
+            <element signature="method#selectAllBorrows#0;class#TLDataManager#0" />
+            <element signature="method#selectAllReturns#0;class#TLDataManager#0" />
+            <element signature="method#selectAllUsers#0;class#TLDataManager#0" />
+            <element signature="method#searchNameForBook#0;class#TLDataManager#0" />
+            <element signature="method#searchAuthorForBook#0;class#TLDataManager#0" />
+            <element signature="method#searchYearForBook#0;class#TLDataManager#0" />
+            <element signature="method#checkForBookAmount#0;class#TLDataManager#0" />
+            <element signature="method#updateBook#0;class#TLDataManager#0" />
+            <element signature="method#addReader#0;class#TLDataManager#0" />
+            <element signature="method#borrowBook#0;class#TLDataManager#0" />
+            <element signature="method#returnBook#0;class#TLDataManager#0" />
+            <element signature="method#fetchReaderBorrowRecord#0;class#TLDataManager#0" />
+            <element signature="method#fetchReaderReturnRecord#0;class#TLDataManager#0" />
+            <element signature="method#userBorrowRecord#0;class#TLDataManager#0" />
+            <element signature="method#dropReader#0;class#TLDataManager#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Tiny Library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
