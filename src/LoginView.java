@@ -12,7 +12,7 @@ public class LoginView extends JPanel implements ActionListener {
     public JPasswordField passwordField;
     public JButton loginButton;
 
-    private String iconURL = "/Users/licanchen/Desktop/Tiny Library/Resources/MainIcon.png";
+    private String iconURL = Configuration.iconURL;
 
     LoginView() {
         this.setLayout(null);

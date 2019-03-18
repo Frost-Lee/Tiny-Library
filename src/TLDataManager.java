@@ -8,16 +8,15 @@ public class TLDataManager {
 
     static TLDataManager sharedInstance;
 
-    final String administratorName = "Administrator";
-    final String administratorPassword = "admin";
+    final String administratorName = Configuration.administratorName;
+    final String administratorPassword = Configuration.administratorPassword;
 
     String currentUser;
     int currentUserId;
 
-    int maxItemSize = 100;
+    int maxItemSize = Configuration.maxItemSize;
 
-    private static final String DB_URL = "jdbc:mysql://localhost/TinyLibrary?"
-            + "user=root&password=alert&useUnicode=true&characterEncoding=UTF8&useSSL=true";
+    private static final String DB_URL = Configuration.DB_URL;
 
     private Connection connection = null;
     private Statement statement = null;
