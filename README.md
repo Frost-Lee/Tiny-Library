@@ -14,7 +14,7 @@ Library management system with MySQL, interface built by Swing in Java
 
 ### Local Support
 ##### Data Base Construction
-Tiny Library requires MySQL, since it's a database based application, you can find the SQL statements to create the database in databaseConstruct.sql.
+Tiny Library requires database system support, since it's a database based application. The database could be constructed with `definition.sql` and `trigger.sql`.
 ##### Configuration
 
 Some configuration, including the user name and password of the database, is required. The configuration can be modified in `/src/Configuration.java`.
