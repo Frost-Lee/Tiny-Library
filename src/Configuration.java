@@ -6,7 +6,7 @@ public class Configuration {
 
     private static String dbURL = "mysql://localhost/TinyLibrary";
     private static String dbUserName = "root";
-    private static String dbPassword = "password here";
+    private static String dbPassword = "alert";
     private static String dbUseUnicode = "true";
     private static String dbEncoding = "UTF8";
     private static String dbUseSSL = "true";
