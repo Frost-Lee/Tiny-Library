@@ -1,7 +1,7 @@
 # Tiny-Library
 Library management system with MySQL, interface built by Swing in Java
 
-![Tiny Library](https://i.imgur.com/51I4Pt6.png)
+![Tiny Library](https://i.imgur.com/fIEyUmF.png)
 
 ### Features
 - Two kinds of user login mode: Administrator and Reader

@@ -1,0 +1,16 @@
+views/AdminImportView.class
+configuration/Configuration.class
+views/ReaderBorrowView.class
+fonts/TLPlainTextFont.class
+views/ReaderHistoryView.class
+model/TLDataManager.class
+fonts/TLSubtitleFont.class
+views/ReaderView.class
+fonts/TLTitleFont.class
+views/ReaderSearchView.class
+views/AdminEditView.class
+main/Main.class
+views/AdminManageView.class
+views/LoginView.class
+fonts/TLCommentFont.class
+views/AdminView.class
