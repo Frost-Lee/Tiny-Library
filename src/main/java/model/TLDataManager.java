@@ -42,7 +42,7 @@ public class TLDataManager {
         try {
             Class.forName("com.mysql.jdbc.Driver");
             System.out.println("Connecting to database");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/test?autoReconnect=true&useSSL=false", "root", "alert");
+            connection = DriverManager.getConnection(DB_URL);
         } catch (Exception exception) {
             exception.printStackTrace();
             System.out.println("Database connection error.");
