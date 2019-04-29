@@ -19,8 +19,6 @@ Library management system with MySQL, interface built by Swing in Java. This is 
 
 ### Usage
 
-> These commands are supposed to be executed under `./src/` directory
-
 There is a archived version of the program, you can run it directly with the following command.
 
 ``` bash
