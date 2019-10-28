@@ -1,7 +1,7 @@
 # Tiny Library
 Library management system with MySQL, interface built by Swing in Java. This is the mid-term project for the course Database System in Zhejiang University.
 
-![Tiny Library](https://i.imgur.com/fIEyUmF.png)
+![Tiny Library](http://144.202.103.127:1910/bloghost/zHntWUaS5u5W8pzzHW3ria.png)
 
 
 
